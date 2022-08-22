@@ -1,7 +1,0 @@
-C:\Users\mehmet.topcu\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe.config
-C:\Users\mehmet.topcu\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe
-C:\Users\mehmet.topcu\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.pdb
-C:\Users\mehmet.topcu\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.AssemblyReference.cache
-C:\Users\mehmet.topcu\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
-C:\Users\mehmet.topcu\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.exe
-C:\Users\mehmet.topcu\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.pdb
